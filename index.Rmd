@@ -45,5 +45,5 @@ Speaking of Chicago, my mother recently moved to Los Angeles from Chicago and ha
 
 # Crime in Honolulu, Hawaii
 For this project, my team georeferenced a map of Honolulu from the early 1900s, generated crime data from public datasets, then overlayed it. The hot spots also happen to be the most popular tourist destinations.
-[![](thumbnails/honolulu.png)](https://alecmartinezgsd.github.io/portfolio/fullsize/honolulu.png){target="_blank"}
+[![](thumbnails/honolulu.png)](https://alecmartinezgsd.github.io/portfolio/fullsize/Honolulu.png){target="_blank"}
 
